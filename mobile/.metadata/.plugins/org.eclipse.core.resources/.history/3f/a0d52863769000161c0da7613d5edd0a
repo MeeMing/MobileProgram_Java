@@ -1,0 +1,22 @@
+package Test;
+
+
+public class Test {
+	public static void main(String[] args){
+		
+		int a = -2147483648;
+		int b = -1;
+		int c = -2;
+		int d = a + b;
+		
+		
+		System.out.println(a+b);
+		System.out.println(a+c);
+		
+		
+		System.out.println(d);
+		System.out.println(0-d);
+		System.out.println(b-0);
+	}	
+
+}

@@ -1,0 +1,23 @@
+{
+  "/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar",
+    "status": "RESOLVED",
+    "error": "No call model found for \u0027/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar\u0027. Neither fingerprint \u0027db6aa883e925dc90c550a874f8d4a5abd919e2d3\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "/Users/gimmyeongsu/Desktop/Java/mobile/Hello_World/src": {
+    "location": "/Users/gimmyeongsu/Desktop/Java/mobile/Hello_World/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/gimmyeongsu/Desktop/Java/mobile/Hello_World/src\u0027. Skipped."
+  },
+  "/Users/gimmyeongsu/Desktop/Java/mobile/Sorting/src": {
+    "location": "/Users/gimmyeongsu/Desktop/Java/mobile/Sorting/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/gimmyeongsu/Desktop/Java/mobile/Sorting/src\u0027. Skipped."
+  },
+  "/Users/gimmyeongsu/Desktop/Java/mobile/Searching/src": {
+    "location": "/Users/gimmyeongsu/Desktop/Java/mobile/Searching/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/gimmyeongsu/Desktop/Java/mobile/Searching/src\u0027. Skipped."
+  }
+}
